@@ -4,9 +4,11 @@
 Mempelajari WireShark
 # Langkah Percobaan
 1. Install ISO WireShark
-@.Instalasi WireShark
+2. Instalasi WireShark
+3. Install Pyhton
+
 
 
 ## Lampiran
 Hasil Percobaan:
-![Hasil Laporan](../assets/image/week1.png)
+![Hasil Percobaan](../assets/image/week1.png)
